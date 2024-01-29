@@ -5,4 +5,5 @@ Simple game made using PyGame, one of my first that I have made that works prope
 
 Controls:
 WASD : Move around
+
 Spacebar : Jump (depending on how long you hold down the key your jump height will differ)
